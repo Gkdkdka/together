@@ -94,3 +94,5 @@ public class otp {
         return Base64.getUrlEncoder().encodeToString(bytes);
     }
 }
+
+//밥만두 바보 뭉총
