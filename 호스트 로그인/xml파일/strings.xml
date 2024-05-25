@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">내 애플리케이션</string>
-    <string name="name_hint">이름을 입력하세요</string>
-    <string name="meeting_hint">모임장을 입력하세요</string>
-    <string name="submit_button">확인</string>
-    <string name="additional_hint">추가 항목을 입력하세요</string>
-    <string name="add_button">추가</string>
-</resources>
